@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Francini Sant'Ana</h1>
-<h3 align="center">A passionate about Data from Brazil</h3>
+<h1> Olá 👋, meu nome é Francini Sant'Ana</h1>
+<h3> Apaixonada pela área de dados e uma exploradora no mundo da tecnologia </h3>
 
-- 🔭 I’m currently working on **Grupo Boticário**
+- 🔭 Atualmente estou como Analytics Engineer no **Grupo Boticário**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 Aprendendo sobre **Python** aplicado no contexto de análise e engenharia de dados
 
 
 <h3 align="left">Languages and Tools:</h3>
