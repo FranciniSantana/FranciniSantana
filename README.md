@@ -22,4 +22,4 @@
 - Frecodecamp em Português | [Do Marketing a análise de dados](https://open.spotify.com/episode/49RMjEMVPNvFVTAxLKTxnu?si=f5d5d77c5d1d467c)
 
 - Data Talks | [Turismo, marketing e dados](https://open.spotify.com/episode/0UDuNZOY3P9HBFjlMwxxHh?si=dOVtS6qzS6ektVRNofUIJQ)
-- Mente Analítica | Princípios básicos de SQL
+- Mente Analítica | [Princípios básicos de SQL](https://open.spotify.com/episode/0DbLaLkbWqAX4CEU3Concs?si=HkkShcYIQ1eWgOa6vSic1Q)
