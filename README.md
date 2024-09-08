@@ -2,7 +2,7 @@
 
  Turismóloga de formação, realizei minha transição de carreira em 2022 para atuar com análise de dados e desde então venho buscando aprender e aprimorar cada vez mais meus conhecimentos.
 
- Atualmente estou como Analytics Enginner no Grupo Boticário, onde minha missão tem sido ajudar pessoas das áreas de negócios a tomarem decisões assertivas para o alcance dos OKRs através da estruturação e disponibilização dos dados em formato de tabelas e dashboards.
+ Atualmente estou como Analytics Engineer no Grupo Boticário, onde minha missão tem sido ajudar pessoas das áreas de negócios a tomarem decisões assertivas para o alcance dos OKRs através da estruturação e disponibilização dos dados em formato de tabelas e dashboards.
 
 ## 🤓 Principais interesses de estudo técnico
 - Python para pipeline de dados
