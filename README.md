@@ -1,16 +1,26 @@
  ## Olá, eu sou a Fran 👋!
+Engenheira de Analytics Pleno no Grupo Boticário.
 
- Turismóloga de formação, realizei minha transição de carreira em 2022 para atuar com análise de dados e desde então venho buscando aprender e aprimorar cada vez mais meus conhecimentos.
+Graduada em Turismo pela Universidade Federal de Juiz de Fora - MG (UFJF) e MBA em Gestão de Projetos pela Fundação Getúlio Vargas (FGV).
 
- Atualmente estou como Analytics Engineer no Grupo Boticário, onde minha missão tem sido ajudar pessoas das áreas de negócios a tomarem decisões assertivas para o alcance dos OKRs através da estruturação e disponibilização dos dados em formato de tabelas e dashboards.
+- +05 anos atuando na área de Marketing de Performance para no segmento de varejo online e educação. 
 
-## 🤓 Principais interesses de estudo técnico
-- Python para pipeline de dados
-- SQL para pipeline de dados
+- +40 empresas atendidas com consultoria em gestão da inovação pelo SEBRAE. 
+
+- Entrou para a área de dados em 2022 como Analista de Inteligência de Dados atendendo grandes empresas como Banco Daycoval, Grupo Essity e Bauducco no segmento de marketing digital
+
+
+## 🤓 Habilidades técnicas
+- ETL com Python e SQL
+- Webscrapping com Python
 - Git / Github 
-- Airflow
-- Google Cloud Plataform
-- Tableau
+- Orquestração de pipelines com Airflow
+- Cloud: Google Cloud Plataform
+- UX/UI: Figma
+- Dataviz: Tableau e Looker Studio
+- Estatística Descritiva
+- Testes de Hipótese
+- Teste A/B
 
 
 
