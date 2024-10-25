@@ -18,9 +18,6 @@ Graduada em Turismo pela Universidade Federal de Juiz de Fora - MG (UFJF) e MBA 
 - Cloud: Google Cloud Plataform
 - UX/UI: Figma
 - Dataviz: Tableau e Looker Studio
-- Estatística Descritiva
-- Testes de Hipótese
-- Teste A/B
 
 
 
